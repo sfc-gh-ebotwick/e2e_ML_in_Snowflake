@@ -2,7 +2,7 @@
 
 Snowflake ML demo showcasing Model Monitoring and A/B testing between two Snow ML Models predicting Mortgage Loan Repayments
 
-# Demo Notebooks showcasing an end-to-end ML worfklow in Snowflake including the following components
+# Demo Notebook showcasing an end-to-end ML worfklow in Snowflake including the following components
 - Use Feature Store to track engineered features
     - Store feature defintions in feature store for reproducible computation of ML features
 - Train two SnowML Models
