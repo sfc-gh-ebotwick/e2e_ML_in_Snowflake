@@ -7,7 +7,7 @@ Snowflake ML demo showcasing Model Monitoring and A/B testing between two Snow M
     - Store feature defintions in feature store for reproducible computation of ML features
 - Train two SnowML Models
     - Baseline XGboost
-    - XGboost with optimal hyper-parameters identified via distributed grid-search
+    - XGboost with optimal hyper-parameters identified via Snowflake ML distributed HPO methods
 - Register both models in Snowflake model registry
     - Explore model registry capabilities such as metadata tracking, inference, and explainability
     - Compare model metrics on train/test set to identify any issues of model performance or overfitting
