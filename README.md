@@ -1,6 +1,6 @@
-# Quickstart showcasing an end-to-end ML worfklow in Snowflake
+# Quickstart showcasing an end-to-end ML workflow in Snowflake
  - Use Feature Store to track engineered features
-     - Store feature defintions in feature store for reproducible computation of ML features
+     - Store feature definitions in feature store for reproducible computation of ML features
  - Train two SnowML Models
      - Baseline XGboost
      - XGboost with optimal hyper-parameters identified via Snowflake ML distributed HPO methods
@@ -19,7 +19,7 @@
        - The data used for model training
        - The available model versions being monitored
  - Additional components also include
-     - Distribtued GPU model training example
+     - Distributed GPU model training example
      - SPCS deployment for inference
          - [WIP] REST API scoring example 
  
