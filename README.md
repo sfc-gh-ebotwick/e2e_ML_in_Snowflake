@@ -1,4 +1,4 @@
-# Demo Notebook showcasing an end-to-end ML worfklow in Snowflake including the following components
+# Quickstart showcasing an end-to-end ML worfklow in Snowflake
  - Use Feature Store to track engineered features
      - Store feature defintions in feature store for reproducible computation of ML features
  - Train two SnowML Models
